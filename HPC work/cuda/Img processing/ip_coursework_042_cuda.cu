@@ -516,7 +516,7 @@ int main(int argc, char **argv) {
   signal(SIGINT, sigint_callback);
 	clock_gettime(CLOCK_MONOTONIC, &start);
   printf("image dimensions %dx%d\n", width, height);
-	//detect_edges(image, results);
+	
 
   clock_gettime(CLOCK_MONOTONIC, &finish);
   time_difference(&start, &finish, &time_elapsed);
