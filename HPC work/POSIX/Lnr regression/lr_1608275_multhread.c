@@ -21,7 +21,9 @@
 typedef struct point_t {
   double x;
   double y;
-} point_t;
+} 
+
+point_t;
 
 int n_data = 1000;
 point_t data[];
@@ -57,8 +59,11 @@ int time_difference(struct timespec *start, struct timespec *finish, long long i
 }
 
 int main()
-   
+  
+  
 {
+	
+	
 	struct timespec start, finish;
 	long long int time_elapsed;
 	clock_gettime(CLOCK_MONOTONIC, &start);
