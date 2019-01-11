@@ -1,0 +1,98 @@
+commit cef8661505a517e4437ac74aeb27f843268bf933
+Author: tamurkhan <t.khan7@wlv.ac.uk>
+Date:   Thu Jan 10 22:35:41 2019 +0000
+
+    Update lr_1608275_multhread.c
+
+commit ed10b72a7e96db8e81898e437927239f4d1ef59e
+Author: tamurkhan <t.khan7@wlv.ac.uk>
+Date:   Thu Jan 10 22:22:39 2019 +0000
+
+    Create original vs cuda image.xlsx
+
+commit 26e085cd94c10234ac88c4742c907ff1888414a7
+Author: tamurkhan <t.khan7@wlv.ac.uk>
+Date:   Thu Jan 10 21:51:48 2019 +0000
+
+    updated
+
+commit 36ddf1b1db2a074ea451cfa6f1f40a819ebc9a0e
+Author: tamurkhan <t.khan7@wlv.ac.uk>
+Date:   Thu Jan 10 13:13:14 2019 +0000
+
+    Create posix passwords and multithread.xlsx
+    
+    initial upload deleted large files and excel documents by mistake
+    
+    uploaded excel file with posix password cracker running 10 times and a multithread version running once
+
+commit be119eb5fcda2e014d85acdc704efb10b0b6ba17
+Author: tamurkhan <t.khan7@wlv.ac.uk>
+Date:   Tue Jan 8 17:05:27 2019 +0000
+
+    Create Screenshot cuda img.png
+
+commit 2a991d957905d1d7c4b607817fba29a72795cc4c
+Author: tamurkhan <t.khan7@wlv.ac.uk>
+Date:   Tue Jan 8 17:00:41 2019 +0000
+
+    excel worksheet
+    
+    all times for original, multihtread and mpi previous file went missing/deleted
+
+commit c8dbdcf7d50a49e16fb23adf47e02618ebb958c8
+Author: tamurkhan <t.khan7@wlv.ac.uk>
+Date:   Tue Jan 8 16:58:29 2019 +0000
+
+    image processsing times
+    
+    times for original vs multithread
+    previous image deleted by accident
+
+commit 657f98e55865196cb2f416c440876724dd9775de
+Author: tamurkhan <t.khan7@wlv.ac.uk>
+Date:   Mon Jan 7 20:58:58 2019 +0000
+
+    Update ip_coursework_042_cuda.cu
+
+commit 3dbfcc919788ebee593b4675541e6aa3f9212efa
+Author: tamurkhan <t.khan7@wlv.ac.uk>
+Date:   Mon Jan 7 20:54:32 2019 +0000
+
+    cuda
+    
+    cuda image processing
+
+commit 03163b4a8d9f061df7fed4c87d3fb1f13e69de56
+Author: tamurkhan <t.khan7@wlv.ac.uk>
+Date:   Mon Dec 24 19:48:48 2018 +0000
+
+    .
+
+commit 0605d3f80d6338770e06458efe29184525934066
+Author: tamurkhan <t.khan7@wlv.ac.uk>
+Date:   Mon Dec 24 01:21:17 2018 +0000
+
+    Create ip_coursework_042.c
+    
+    running program to display image after processing pipeline colour threshold and edge detection
+
+commit cdabdb63fe496fafca816ae94c1ae0bc790a16ab
+Author: tamurkhan <t1608275@users.noreply.github.com>
+Date:   Wed Dec 19 19:36:22 2018 +0000
+
+    a graph with the best line fit
+
+commit d98da5acf616bfc211c24bd40120d905c7490175
+Author: tamurkhan <t1608275@users.noreply.github.com>
+Date:   Wed Dec 19 14:37:31 2018 +0000
+
+    posix image processing
+    
+    the normal and multithreaded times of runnning the image processing software
+
+commit 41697b517232e29300f3b1a83fd0cdf8cf9f71fd
+Author: tamurkhan <t1608275@users.noreply.github.com>
+Date:   Wed Dec 19 14:34:45 2018 +0000
+
+    Initial commit
